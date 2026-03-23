@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/9128724/228556999-4c2a90d9-c8ea-4484-8194-8c13b1f6e322.png)
 ## Demo
 
-[My Resume Landing Page](https://fortezhuo.my.id)
+[My Resume Landing Page](https://fortezhuo.com)
 
 ## Description
 
